@@ -1,0 +1,109 @@
+{
+    "pomos": [
+        {
+            "id": 1,
+            "pomoName": "Naveen Pomo 1",
+            "runTime": 25,
+            "breakTime": 5,
+            "longBreakTime": 15,
+            "longBreakAt": 3,
+            "repetitions": 5,
+            "tasks": [
+                "Complete the poster of cloud computing",
+                "finish up spss practical notes",
+                "write set notes"
+            ]
+        },
+        {
+            "id": 2,
+            "pomoName": "Lucifer Pomo 1",
+            "runTime": 20,
+            "breakTime": 4,
+            "longBreakTime": 20,
+            "longBreakAt": 4,
+            "repetitions": 8,
+            "tasks": [
+                "Punish the ones who entered hell recently",
+                "Go to earth to flirt with Chloe Decker",
+                "Check in on Amaniedel, my brother"
+            ]
+        },
+        {
+            "id": 3,
+            "pomoName": "Murphy Pomo 1",
+            "runTime": 40,
+            "breakTime": 5,
+            "longBreakTime": 15,
+            "longBreakAt": 2,
+            "repetitions": 4,
+            "tasks": [
+                "Have a meeting with Christopher Nolan",
+                "Practice dialiogues for 'Oppenheimer movie'",
+                "Final episode of peaky blinders"
+            ]
+        },
+        {
+            "id": 4,
+            "pomoName": "Harry Pomo 1",
+            "runTime": 60,
+            "breakTime": 10,
+            "longBreakTime": 15,
+            "longBreakAt": 2,
+            "repetitions": 6,
+            "tasks": [
+                "Finish the lyrics for 'as it was'",
+                "A phone call with my mom",
+                "find the tune for the next song"
+            ]
+        },
+        {
+            "id": 5,
+            "pomoName": "Charlie Pomo 1",
+            "runTime": 60,
+            "breakTime": 10,
+            "longBreakTime": 15,
+            "longBreakAt": 2,
+            "repetitions": 6,
+            "tasks": [
+                "Post a YT short on how I made 'left and right'",
+                "Publish the video for smells like me"
+            ]
+        },
+        {
+            "id": 6,
+            "pomoName": "Charlie Pomo 2",
+            "runTime": 50,
+            "breakTime": 10,
+            "longBreakTime": 60,
+            "longBreakAt": 3,
+            "repetitions": 6,
+            "tasks": [
+                "teach the band to learn about the music",
+                "Practice the song 'I don't think I like her anymore'"
+            ]
+        },
+        {
+            "id": 7,
+            "pomoName": "Charlie Pomo 3",
+            "runTime": 20,
+            "breakTime": 5,
+            "longBreakTime": 15,
+            "longBreakAt": 4,
+            "repetitions": 8,
+            "tasks": ["Workout session from 5 to 6pm", "Call kiara"]
+        },
+        {
+            "id": 8,
+            "pomoName": "Charlie Pomo 4",
+            "runTime": 40,
+            "breakTime": 5,
+            "longBreakTime": 15,
+            "longBreakAt": 2,
+            "repetitions": 6,
+            "tasks": [
+                "Do something meaningful in life",
+                "A meeting with 'genius' company"
+            ]
+        }
+    ]
+}

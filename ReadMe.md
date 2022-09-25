@@ -1,0 +1,3 @@
+# Pomodora App & Spotify Integration
+
+It basically is a pomodoro timer where we can actually create some playsists from the app itself and when creating a timer we can set the playlist that we wanna play until the timer pauses or stops...You don't have to manually switch between multiple apps as it is done automatically here...

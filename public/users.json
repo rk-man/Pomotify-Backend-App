@@ -1,0 +1,49 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Naveen",
+            "lastName": "RK",
+            "username": "rk_man",
+            "email": "naveenbadi2003@gmail.com",
+            "password": "Naveen@2003",
+            "passwordConfirm": "Naveen@2003"
+        },
+        {
+            "id": 2,
+            "firstName": "Lucifer",
+            "lastName": "Morningstar",
+            "username": "lucy_123",
+            "email": "lucifer@gmail.com",
+            "password": "Lucifer@2003",
+            "passwordConfirm": "Lucifer@2003"
+        },
+        {
+            "id": 3,
+            "firstName": "Cillian",
+            "lastName": "Murphy",
+            "username": "murphy_123",
+            "email": "murphy@gmail.com",
+            "password": "Murphy@2003",
+            "passwordConfirm": "Murphy@2003"
+        },
+        {
+            "id": 4,
+            "firstName": "Harry Styles",
+            "lastName": "harry@gmail.com",
+            "username": "harry_123",
+            "email": "harry@gmail.com",
+            "password": "Harry@2003",
+            "passwordConfirm": "Harry@2003"
+        },
+        {
+            "id": 5,
+            "firstName": "Charlie",
+            "lastName": "Puth",
+            "username": "charlie123",
+            "email": "charlie@gmail.com",
+            "password": "Charlie@2003",
+            "passwordConfirm": "Charlie@2003"
+        }
+    ]
+}
