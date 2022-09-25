@@ -4,7 +4,7 @@
     "description": "A pomodoro app that lets you use spotify to run certail playsists automatically when the timer starts when there is a break...music stops",
     "main": "server.js",
     "scripts": {
-        "start": "npm run server.js",
+        "start": "node server.js",
         "server": "nodemon run server.js"
     },
     "author": "Naveen RK",
