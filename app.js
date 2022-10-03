@@ -7,6 +7,7 @@ const app = express();
 //importing routers
 const userRouter = require("./routes/userRoutes");
 const pomoRouter = require("./routes/pomoRoutes");
+const spotifyRouter = require("./routes/spotifyRoutes");
 
 //importing error handler
 const errorHandler = require("./controllers/errorController");
@@ -18,6 +19,7 @@ app.use(express.static(path.join(__dirname, "public")));
 //setting the routes
 app.use("/api/v1/users", userRouter);
 app.use("/api/v1/pomos", pomoRouter);
+app.use("/api/v1/spotify", spotifyRouter);
 
 //setting global error handler
 app.use(errorHandler);
